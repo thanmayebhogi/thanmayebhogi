@@ -71,12 +71,7 @@ I'm a passionate **Fullstack Developer** who loves crafting seamless web experie
 ---
 
 <!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmayebhogi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-</div>
 
 ---
 
