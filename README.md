@@ -22,7 +22,7 @@ I'm a passionate **Fullstack Developer** who loves crafting seamless web experie
 
 - 🎯 I build and ship full-stack apps using **Node.js**, **Express.js**, and modern frontend tech
 
-- 🌐 Check out my work at [my portfolio](https://future-fs-01-ecru.vercel.app) — yes, it's live!
+- 🌐 Check out my work at [my portfolio](https://thanmaye-portfolio.vercel.app) — yes, it's live!
 - ⚡ Fun fact: I debug better with lo-fi music playing 🎵
 - 🤝 Always open to connecting, collaborating, or just having a great tech conversation
 
