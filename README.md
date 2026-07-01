@@ -90,7 +90,7 @@ I'm always excited to collaborate, learn, and build together. Whether it's a pro
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="https://future-fs-01-ecru.vercel.app" target="_blank">
+  <a href="https://thanmaye-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
   </a>
   &nbsp;
